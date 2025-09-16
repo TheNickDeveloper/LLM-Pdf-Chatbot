@@ -69,8 +69,6 @@ Make sure you have Ollama installed and the required models (llama3.2 and mxbai-
 streamlit run app.py
 ```
 
----
-
 ### 4. Usage
 
 - Upload one or more PDFs.
@@ -79,6 +77,7 @@ streamlit run app.py
 
 - Get AI-powered answers directly from your documents.
 
+---
 
 ## 📌 Example Use Cases
 
